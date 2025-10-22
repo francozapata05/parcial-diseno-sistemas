@@ -130,7 +130,7 @@ Total de directorios procesados: 22
 ################################################################################
 
 # ==============================================================================
-# ARCHIVO 1/67: __init__.py
+# ARCHIVO 1/67: main.py
 # Directorio: .
 # Ruta completa: C:\Users\Franco\Desktop\DS1\Python\parcial-diseno-sistemas\main.py
 # ==============================================================================
